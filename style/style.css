@@ -84,7 +84,7 @@ html, body {
   overflow-x: hidden; }
 
 .body {
-  background-color: white;
+  background-color: #f7f7f7;
   border: solid #2fcfba 24px; }
 
 aside {
@@ -146,7 +146,7 @@ a:hover {
   float: right; }
 
 .header {
-  background-color: white;
+  background-color: #f7f7f7;
   margin-left: 240px;
   margin-top: 20px; }
   .header .home {
@@ -173,7 +173,7 @@ a:hover {
 
 .header-section {
   margin-left: 0px;
-  background-color: white; }
+  background-color: #f7f7f7; }
   .header-section .current-prog .text-m-1 {
     color: #59aac0;
     padding-bottom: 10px; }
