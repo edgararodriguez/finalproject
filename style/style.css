@@ -642,4 +642,10 @@ a:hover {
   margin-top: -15px;
   color: #52a5af; }
 
+.genedsbox {
+  background-color: white;
+  width: 840px;
+  height: 500px;
+  margin-top: 25px; }
+
 /*# sourceMappingURL=style.css.map */
