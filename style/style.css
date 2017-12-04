@@ -648,4 +648,38 @@ a:hover {
   height: 500px;
   margin-top: 25px; }
 
+.courseregistration {
+  color: #33c7ba;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  letter-spacing: .2px;
+  margin-left: 20px;
+  float: left; }
+
+.course-sixty {
+  display: inline-block; }
+
+.sixty {
+  color: #33c7ba;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  letter-spacing: .2px;
+  float: right;
+  margin-left: 525px; }
+
+.lightblueline {
+  width: 321px;
+  height: 5px;
+  background-color: #50e3c2;
+  float: left; }
+
+.darkblueline {
+  width: 642px;
+  height: 5px;
+  background-color: #359ca1; }
+
+.linetogether {
+  display: inline-block;
+  margin-left: 100px; }
+
 /*# sourceMappingURL=style.css.map */
