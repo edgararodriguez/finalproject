@@ -654,7 +654,8 @@ a:hover {
   font-weight: bold;
   letter-spacing: .2px;
   margin-left: 20px;
-  float: left; }
+  float: left;
+  padding-top: 10px; }
 
 .course-sixty {
   display: inline-block; }
@@ -665,7 +666,8 @@ a:hover {
   font-weight: bold;
   letter-spacing: .2px;
   float: right;
-  margin-left: 525px; }
+  margin-left: 525px;
+  padding-top: 10px; }
 
 .lightblueline {
   width: 321px;
@@ -681,5 +683,12 @@ a:hover {
 .linetogether {
   display: inline-block;
   margin-left: 100px; }
+
+.generaleducation {
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: .2px;
+  width: 493.9px;
+  height: 18px;
+  margin-top: 10px; }
 
 /*# sourceMappingURL=style.css.map */
