@@ -78,17 +78,15 @@ letter-spacing: 0.2px;
   font-family: $font-montserrat;
 }
 .firstbox{
+margin-left: 40px;
+margin-top: 40px;
 }
-.cset160{
-  font-family: $font-montserrat;
-  letter-spacing: 0.2px;
-  color: #48a2ba;
-    font-weight: bold;
-    font-size: 12px;
-}
-.webdev{
-  font-family: $font-montserrat;
-}
-.secondbox{
 
+.secondbox{
+  margin-left: 40px;
+  margin-top: 40px;
+}
+.thirdbox{
+  margin-left: 400px;
+  margin-top: -130px;
 }

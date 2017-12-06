@@ -1070,14 +1070,16 @@ aside {
 .databased {
   font-family: "Montserrat", sans-serif; }
 
-.cset160 {
-  font-family: "Montserrat", sans-serif;
-  letter-spacing: 0.2px;
-  color: #48a2ba;
-  font-weight: bold;
-  font-size: 12px; }
+.firstbox {
+  margin-left: 40px;
+  margin-top: 40px; }
 
-.webdev {
-  font-family: "Montserrat", sans-serif; }
+.secondbox {
+  margin-left: 40px;
+  margin-top: 40px; }
+
+.thirdbox {
+  margin-left: 400px;
+  margin-top: -130px; }
 
 /*# sourceMappingURL=style.css.map */
